@@ -14,7 +14,6 @@ struct HeroListView: View {
         .task { await viewModel.fetchHeroes() }
     }
 
-    // MARK: – UI
     private var searchBar: some View {
         TextField("Search hero…", text: $viewModel.searchText)
             .textFieldStyle(.roundedBorder)
@@ -39,7 +38,7 @@ struct HeroListView: View {
         }
     }
 
-    // MARK: – Card
+    
     @ViewBuilder
     private func HeroCard(_ m: HeroListModel) -> some View {
         HStack(spacing: 16) {

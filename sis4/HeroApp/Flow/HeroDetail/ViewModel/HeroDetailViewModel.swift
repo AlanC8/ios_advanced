@@ -20,8 +20,8 @@ final class HeroDetailViewModel: ObservableObject {
         do {
             let e = try await service.fetchHero(id: heroId)
             model = Self.map(e)
+            isLoading = false
         } catch let err { error = err.localizedDescription }
-        isLoading = false
     }
 
     private static func map(_ e: HeroEntity) -> HeroDetailModel {

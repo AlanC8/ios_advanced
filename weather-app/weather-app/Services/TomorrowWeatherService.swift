@@ -54,7 +54,6 @@ class TomorrowWeatherService {
         let decoded = try JSONDecoder().decode(ForecastWeatherResponse.self, from: data)
         guard let hours = decoded.timelines.hourly else { return [] }
 
-        // группируем по дате
         var dict: [Date:[HourlyWeatherData]] = [:]
         let iso  = ISO8601DateFormatter()
         for h in hours {

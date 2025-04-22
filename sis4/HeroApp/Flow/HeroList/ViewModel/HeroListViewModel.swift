@@ -3,11 +3,8 @@ import Foundation
 
 @MainActor
 final class HeroListViewModel: ObservableObject {
-
-    // IN
     @Published var searchText = ""
 
-    // OUT
     @Published private(set) var heroes: [HeroListModel] = []
     @Published private(set) var isLoading = false
     @Published private(set) var error: String?
@@ -21,7 +18,6 @@ final class HeroListViewModel: ObservableObject {
         self.service = service
         self.router  = router
 
-        // live‑filter
         $searchText
             .debounce(for: .milliseconds(300), scheduler: RunLoop.main)
             .removeDuplicates()
