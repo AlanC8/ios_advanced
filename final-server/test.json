@@ -1,0 +1,104 @@
+{
+  "Models": [
+    {
+      "model_name": "2 Series",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "3 Series",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "3 Series Gran Turismo",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "4 Series",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "4 Series Gran Coupe",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "5 Series",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "5 Series Gran Turismo",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "6 Series",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "6 Series Gran Coupe",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "7 Series",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "ActiveHybrid 5",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "ActiveHybrid 7",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "ALPINA B6 Gran Coupe",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "ALPINA B7",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "M3",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "M4",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "M5",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "M6",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "M6 Gran Coupe",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "X1",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "X3",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "X4",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "X5",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "X6",
+      "model_make_id": "BMW"
+    },
+    {
+      "model_name": "Z4",
+      "model_make_id": "BMW"
+    }
+  ]
+}

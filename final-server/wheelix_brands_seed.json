@@ -1,0 +1,1373 @@
+{
+  "brands": [
+    {
+      "name": "BMW",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/BMW.png",
+      "series": [
+        {
+          "name": "316",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "628",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "725",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "M1",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "M5",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HYUNDAI",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Hyundai.png",
+      "series": [
+        {
+          "name": "Pony",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHEVROLET",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Chevrolet.png",
+      "series": [
+        {
+          "name": "Blazer",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Camaro",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Caprice",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Chevette",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Citation",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Corvette",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "El",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Grand",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Impala",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Malibu",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Monte",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Monza",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Suburban",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KIA",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Kia.png",
+      "series": [
+        {
+          "name": "Brisa",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TOYOTA",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Toyota.png",
+      "series": [
+        {
+          "name": "Blizzard",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Carina",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Celica",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Century",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Corolla",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Corona",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Corsa",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Cressida",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Crown",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Land",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Sprinter",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Starlet",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Tercel",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LEXUS",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Lexus.png",
+      "series": []
+    },
+    {
+      "name": "NISSAN",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Nissan.png",
+      "series": [
+        {
+          "name": "Bluebird",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Cherry",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Laurel",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Patrol",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Silvia",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Skyline",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Stanza",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Sunny",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Violet",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HONDA",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Honda.png",
+      "series": [
+        {
+          "name": "Accord",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Ballade",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Civic",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Prelude",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MAZDA",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Mazda.png",
+      "series": [
+        {
+          "name": "121",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "323",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "626",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "929",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Cosmo",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "RX-7",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MERCEDES",
+      "country": "—",
+      "logo": "",
+      "series": []
+    },
+    {
+      "name": "AUDI",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Audi.png",
+      "series": [
+        {
+          "name": "80",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "100",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "200",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "4000",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Quattro",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Sport",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "UR",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "VOLKSWAGEN",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Volkswagen.png",
+      "series": [
+        {
+          "name": "181",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "1302",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Beetle",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Derby",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Golf",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Iltis",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Jetta",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Passat",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Rabbit",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Scirocco",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SKODA",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Skoda.png",
+      "series": [
+        {
+          "name": "L",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LADA",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Lada.png",
+      "series": [
+        {
+          "name": "1200",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "2105",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Niva",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "S",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HAVAL",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Haval.png",
+      "series": []
+    },
+    {
+      "name": "CHERY",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Chery.png",
+      "series": []
+    },
+    {
+      "name": "GEELY",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Geely.png",
+      "series": []
+    },
+    {
+      "name": "JAC",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/JAC.png",
+      "series": []
+    },
+    {
+      "name": "PEUGEOT",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Peugeot.png",
+      "series": [
+        {
+          "name": "304",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "305",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "505",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "604",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RENAULT",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Renault.png",
+      "series": [
+        {
+          "name": "4",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "5",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "12",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "14",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "15",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "18",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "20",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Fuego",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Rodeo",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Siete",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "FORD",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Ford.png",
+      "series": [
+        {
+          "name": "Bronco",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Capri",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Cortina",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Cougar",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Crown",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Escort",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Fairlane",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Falcon",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Fiesta",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Granada",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Laser",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Limited",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Monarch",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Taunus",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Thunderbird",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MITSUBISHI",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Mitsubishi.png",
+      "series": [
+        {
+          "name": "Celeste",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Colt",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Debonair",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Galant",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Jeep",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Minica",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Sapporo",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Sigma",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SUBARU",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Subaru.png",
+      "series": [
+        {
+          "name": "Coupe",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "DL",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Leone",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "Rex",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TESLA",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Tesla.png",
+      "series": []
+    },
+    {
+      "name": "PORSCHE",
+      "country": "—",
+      "logo": "https://raw.githubusercontent.com/haydenhurz/car-logos/master/logos/Porsche.png",
+      "series": [
+        {
+          "name": "911",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "924",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "928",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "930",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        },
+        {
+          "name": "936",
+          "generations": [
+            {
+              "code": "NaNs",
+              "start": null,
+              "end": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "detailed": []
+}

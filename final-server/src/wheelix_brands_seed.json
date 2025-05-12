@@ -1,0 +1,589 @@
+{
+    "brands": [
+      { "name": "BMW",            "country": "Germany" },
+      { "name": "Hyundai",        "country": "South Korea" },
+      { "name": "Chevrolet",      "country": "USA" },
+      { "name": "Kia",            "country": "South Korea" },
+      { "name": "Toyota",         "country": "Japan" },
+      { "name": "Lexus",          "country": "Japan" },
+      { "name": "Nissan",         "country": "Japan" },
+      { "name": "Honda",          "country": "Japan" },
+      { "name": "Mazda",          "country": "Japan" },
+      { "name": "Mercedes-Benz",  "country": "Germany" },
+      { "name": "Audi",           "country": "Germany" },
+      { "name": "Volkswagen",     "country": "Germany" },
+      { "name": "Skoda",          "country": "Czech Republic" },
+      { "name": "Lada",           "country": "Russia" },
+      { "name": "Haval",          "country": "China" },
+      { "name": "Chery",          "country": "China" },
+      { "name": "Geely",          "country": "China" },
+      { "name": "JAC",            "country": "China" },
+      { "name": "Peugeot",        "country": "France" },
+      { "name": "Renault",        "country": "France" },
+      { "name": "Ford",           "country": "USA" },
+      { "name": "Mitsubishi",     "country": "Japan" },
+      { "name": "Subaru",         "country": "Japan" },
+      { "name": "Tesla",          "country": "USA" },
+      { "name": "Porsche",        "country": "Germany" }
+    ],
+  
+    "detailed": [
+      {
+        "name": "BMW",
+        "series": [
+          {
+            "name": "3-Series",
+            "generations": [
+              { "code": "E30", "start": 1982, "end": 1991 },
+              { "code": "E36", "start": 1991, "end": 1998 },
+              { "code": "E46", "start": 1998, "end": 2005 },
+              { "code": "E90", "start": 2005, "end": 2012 },
+              { "code": "F30", "start": 2012, "end": 2019 },
+              { "code": "G20", "start": 2019 }
+            ]
+          },
+          {
+            "name": "5-Series",
+            "generations": [
+              { "code": "E28", "start": 1981, "end": 1988 },
+              { "code": "E34", "start": 1988, "end": 1995 },
+              { "code": "E39", "start": 1995, "end": 2003 },
+              { "code": "E60", "start": 2003, "end": 2010 },
+              { "code": "F10", "start": 2010, "end": 2016 },
+              { "code": "G30", "start": 2017, "end": 2023 },
+              { "code": "G60", "start": 2023 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Hyundai",
+        "series": [
+          {
+            "name": "Accent/Solaris",
+            "generations": [
+              { "code": "X3",  "start": 1994, "end": 2000 },
+              { "code": "LC",  "start": 2000, "end": 2005 },
+              { "code": "MC",  "start": 2006, "end": 2011 },
+              { "code": "RB",  "start": 2011, "end": 2017 },
+              { "code": "HC",  "start": 2017 }
+            ]
+          },
+          {
+            "name": "Tucson",
+            "generations": [
+              { "code": "JM",  "start": 2004, "end": 2009 },
+              { "code": "LM",  "start": 2009, "end": 2015 },
+              { "code": "TL",  "start": 2015, "end": 2020 },
+              { "code": "NX4", "start": 2020 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Chevrolet",
+        "series": [
+          {
+            "name": "Cobalt",
+            "generations": [
+              { "code": "T250", "start": 2004, "end": 2010 },
+              { "code": "G15",  "start": 2011 }
+            ]
+          },
+          {
+            "name": "Niva/Tracker",
+            "generations": [
+              { "code": "2123", "start": 2002, "end": 2020 },
+              { "code": "JC49", "start": 2020 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Kia",
+        "series": [
+          {
+            "name": "Rio",
+            "generations": [
+              { "code": "DC",  "start": 2000, "end": 2005 },
+              { "code": "JB",  "start": 2005, "end": 2011 },
+              { "code": "UB",  "start": 2011, "end": 2017 },
+              { "code": "FB",  "start": 2017 }
+            ]
+          },
+          {
+            "name": "Sportage",
+            "generations": [
+              { "code": "JA",  "start": 1993, "end": 2004 },
+              { "code": "JE",  "start": 2004, "end": 2010 },
+              { "code": "SL",  "start": 2010, "end": 2015 },
+              { "code": "QL",  "start": 2015, "end": 2021 },
+              { "code": "NQ5", "start": 2021 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Toyota",
+        "series": [
+          {
+            "name": "Camry",
+            "generations": [
+              { "code": "V20", "start": 1986, "end": 1991 },
+              { "code": "XV10", "start": 1991, "end": 1996 },
+              { "code": "XV20", "start": 1996, "end": 2001 },
+              { "code": "XV30", "start": 2001, "end": 2006 },
+              { "code": "XV40", "start": 2006, "end": 2011 },
+              { "code": "XV50", "start": 2011, "end": 2017 },
+              { "code": "XV70", "start": 2017 }
+            ]
+          },
+          {
+            "name": "Land Cruiser Prado",
+            "generations": [
+              { "code": "J70", "start": 1990, "end": 1996 },
+              { "code": "J90", "start": 1996, "end": 2002 },
+              { "code": "J120", "start": 2002, "end": 2009 },
+              { "code": "J150", "start": 2009, "end": 2023 },
+              { "code": "J250", "start": 2023 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Lexus",
+        "series": [
+          {
+            "name": "RX",
+            "generations": [
+              { "code": "XU10", "start": 1997, "end": 2003 },
+              { "code": "XU30", "start": 2003, "end": 2008 },
+              { "code": "AL10", "start": 2008, "end": 2015 },
+              { "code": "AL20", "start": 2015, "end": 2022 },
+              { "code": "AL30", "start": 2022 }
+            ]
+          },
+          {
+            "name": "GX",
+            "generations": [
+              { "code": "J120", "start": 2002, "end": 2009 },
+              { "code": "J150", "start": 2009, "end": 2023 },
+              { "code": "J250", "start": 2023 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Nissan",
+        "series": [
+          {
+            "name": "X-Trail",
+            "generations": [
+              { "code": "T30", "start": 2000, "end": 2007 },
+              { "code": "T31", "start": 2007, "end": 2013 },
+              { "code": "T32", "start": 2014, "end": 2021 },
+              { "code": "T33", "start": 2021 }
+            ]
+          },
+          {
+            "name": "Qashqai",
+            "generations": [
+              { "code": "J10", "start": 2006, "end": 2013 },
+              { "code": "J11", "start": 2013, "end": 2021 },
+              { "code": "J12", "start": 2021 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Honda",
+        "series": [
+          {
+            "name": "CR-V",
+            "generations": [
+              { "code": "RD", "start": 1995, "end": 2001 },
+              { "code": "RD7","start": 2001, "end": 2006 },
+              { "code": "RE", "start": 2006, "end": 2011 },
+              { "code": "RM", "start": 2011, "end": 2016 },
+              { "code": "RW", "start": 2016, "end": 2022 },
+              { "code": "RS", "start": 2022 }
+            ]
+          },
+          {
+            "name": "Civic",
+            "generations": [
+              { "code": "EF", "start": 1987, "end": 1991 },
+              { "code": "EG", "start": 1991, "end": 1995 },
+              { "code": "EK", "start": 1995, "end": 2000 },
+              { "code": "ES", "start": 2000, "end": 2005 },
+              { "code": "FD", "start": 2005, "end": 2011 },
+              { "code": "FB", "start": 2011, "end": 2015 },
+              { "code": "FC", "start": 2015, "end": 2021 },
+              { "code": "FE", "start": 2021 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Mazda",
+        "series": [
+          {
+            "name": "CX-5",
+            "generations": [
+              { "code": "KE", "start": 2011, "end": 2017 },
+              { "code": "KF", "start": 2017 }
+            ]
+          },
+          {
+            "name": "Mazda 6",
+            "generations": [
+              { "code": "GG", "start": 2002, "end": 2008 },
+              { "code": "GH", "start": 2008, "end": 2012 },
+              { "code": "GJ", "start": 2012, "end": 2022 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Mercedes-Benz",
+        "series": [
+          {
+            "name": "C-Class",
+            "generations": [
+              { "code": "W201", "start": 1982, "end": 1993 },
+              { "code": "W202", "start": 1993, "end": 2000 },
+              { "code": "W203", "start": 2000, "end": 2007 },
+              { "code": "W204", "start": 2007, "end": 2014 },
+              { "code": "W205", "start": 2014, "end": 2021 },
+              { "code": "W206", "start": 2021 }
+            ]
+          },
+          {
+            "name": "GLE",
+            "generations": [
+              { "code": "W166", "start": 2015, "end": 2019 },
+              { "code": "W167", "start": 2019 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Audi",
+        "series": [
+          {
+            "name": "A4",
+            "generations": [
+              { "code": "B3/80", "start": 1986, "end": 1994 },
+              { "code": "B5", "start": 1994, "end": 2001 },
+              { "code": "B6", "start": 2001, "end": 2005 },
+              { "code": "B7", "start": 2005, "end": 2008 },
+              { "code": "B8", "start": 2008, "end": 2015 },
+              { "code": "B9", "start": 2015 }
+            ]
+          },
+          {
+            "name": "Q5",
+            "generations": [
+              { "code": "8R", "start": 2008, "end": 2017 },
+              { "code": "FY", "start": 2017 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Volkswagen",
+        "series": [
+          {
+            "name": "Passat",
+            "generations": [
+              { "code": "B3", "start": 1988, "end": 1993 },
+              { "code": "B4", "start": 1993, "end": 1997 },
+              { "code": "B5", "start": 1997, "end": 2005 },
+              { "code": "B6", "start": 2005, "end": 2010 },
+              { "code": "B7", "start": 2010, "end": 2014 },
+              { "code": "B8", "start": 2014 }
+            ]
+          },
+          {
+            "name": "Tiguan",
+            "generations": [
+              { "code": "AD1", "start": 2007, "end": 2016 },
+              { "code": "BW2", "start": 2016 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Skoda",
+        "series": [
+          {
+            "name": "Octavia",
+            "generations": [
+              { "code": "1U",  "start": 1996, "end": 2010 },
+              { "code": "1Z",  "start": 2004, "end": 2013 },
+              { "code": "5E",  "start": 2013, "end": 2020 },
+              { "code": "NX",  "start": 2020 }
+            ]
+          },
+          {
+            "name": "Rapid",
+            "generations": [
+              { "code": "NH", "start": 2012, "end": 2019 },
+              { "code": "PA", "start": 2019 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Lada",
+        "series": [
+          {
+            "name": "Granta",
+            "generations": [
+              { "code": "2190", "start": 2011, "end": 2018 },
+              { "code": "FL",   "start": 2018 }
+            ]
+          },
+          {
+            "name": "Vesta",
+            "generations": [
+              { "code": "2180", "start": 2015, "end": 2022 },
+              { "code": "NG",   "start": 2023 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Haval",
+        "series": [
+          {
+            "name": "Jolion",
+            "generations": [
+              { "code": "A01", "start": 2020 }
+            ]
+          },
+          {
+            "name": "H6",
+            "generations": [
+              { "code": "2nd", "start": 2013, "end": 2020 },
+              { "code": "3rd", "start": 2020 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Chery",
+        "series": [
+          {
+            "name": "Tiggo 7",
+            "generations": [
+              { "code": "T17",  "start": 2016, "end": 2020 },
+              { "code": "T18",  "start": 2020 }
+            ]
+          },
+          {
+            "name": "Tiggo 8",
+            "generations": [
+              { "code": "TX", "start": 2018 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Geely",
+        "series": [
+          {
+            "name": "Atlas",
+            "generations": [
+              { "code": "NL-3", "start": 2016, "end": 2022 },
+              { "code": "FX-11","start": 2022 }
+            ]
+          },
+          {
+            "name": "Coolray",
+            "generations": [
+              { "code": "Binyue", "start": 2018 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "JAC",
+        "series": [
+          {
+            "name": "JS4",
+            "generations": [
+              { "code": "S4", "start": 2019 }
+            ]
+          },
+          {
+            "name": "J7",
+            "generations": [
+              { "code": "A431", "start": 2020 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Peugeot",
+        "series": [
+          {
+            "name": "308",
+            "generations": [
+              { "code": "T7", "start": 2007, "end": 2013 },
+              { "code": "T9", "start": 2013, "end": 2021 },
+              { "code": "P5", "start": 2021 }
+            ]
+          },
+          {
+            "name": "3008",
+            "generations": [
+              { "code": "I",  "start": 2009, "end": 2016 },
+              { "code": "II", "start": 2016 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Renault",
+        "series": [
+          {
+            "name": "Duster",
+            "generations": [
+              { "code": "H79", "start": 2010, "end": 2021 },
+              { "code": "II",  "start": 2021 }
+            ]
+          },
+          {
+            "name": "Arkana",
+            "generations": [
+              { "code": "LJL", "start": 2019 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Ford",
+        "series": [
+          {
+            "name": "Focus",
+            "generations": [
+              { "code": "Mk1", "start": 1998, "end": 2004 },
+              { "code": "Mk2", "start": 2004, "end": 2011 },
+              { "code": "Mk3", "start": 2011, "end": 2018 },
+              { "code": "Mk4", "start": 2018 }
+            ]
+          },
+          {
+            "name": "Explorer",
+            "generations": [
+              { "code": "U1",  "start": 1990, "end": 1994 },
+              { "code": "U2",  "start": 1994, "end": 2001 },
+              { "code": "U3",  "start": 2001, "end": 2010 },
+              { "code": "U5",  "start": 2010, "end": 2019 },
+              { "code": "U6",  "start": 2019 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Mitsubishi",
+        "series": [
+          {
+            "name": "Outlander",
+            "generations": [
+              { "code": "CU", "start": 2001, "end": 2006 },
+              { "code": "CW", "start": 2006, "end": 2013 },
+              { "code": "GF", "start": 2013, "end": 2021 },
+              { "code": "GN", "start": 2021 }
+            ]
+          },
+          {
+            "name": "L200",
+            "generations": [
+              { "code": "K2", "start": 1996, "end": 2005 },
+              { "code": "K3", "start": 2005, "end": 2015 },
+              { "code": "K4", "start": 2015 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Subaru",
+        "series": [
+          {
+            "name": "Forester",
+            "generations": [
+              { "code": "SF", "start": 1997, "end": 2002 },
+              { "code": "SG", "start": 2002, "end": 2008 },
+              { "code": "SH", "start": 2008, "end": 2012 },
+              { "code": "SJ", "start": 2012, "end": 2018 },
+              { "code": "SK", "start": 2018 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Tesla",
+        "series": [
+          {
+            "name": "Model 3",
+            "generations": [
+              { "code": "1st", "start": 2017 }
+            ]
+          },
+          {
+            "name": "Model Y",
+            "generations": [
+              { "code": "1st", "start": 2020 }
+            ]
+          }
+        ]
+      },
+  
+      {
+        "name": "Porsche",
+        "series": [
+          {
+            "name": "Cayenne",
+            "generations": [
+              { "code": "E1", "start": 2002, "end": 2010 },
+              { "code": "E2", "start": 2010, "end": 2017 },
+              { "code": "E3", "start": 2017 }
+            ]
+          },
+          {
+            "name": "Panamera",
+            "generations": [
+              { "code": "970", "start": 2009, "end": 2016 },
+              { "code": "971", "start": 2016 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

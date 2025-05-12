@@ -1,78 +1,47 @@
-# Habit Tracker API
+# 🚀 Node.js TypeScript Boilerplate
 
-A FastAPI-based RESTful API for tracking habits, with features similar to habit tracking mobile apps. The API allows users to create habits, track daily completions, and view statistics about their progress.
+This is a boilerplate project for building Node.js applications using TypeScript. It includes a basic setup for Express.js, custom logging middleware, and route management.
 
-## Features
+## 📦 How to Start
 
-- 👤 **User Authentication**: Register, login, and manage user accounts
-- 📝 **Habit Management**: Create, read, update, and delete habits
-- ✅ **Daily Tracking**: Mark habits as completed for each day
-- 📊 **Statistics**: Calculate streaks and completion rates
-- 📆 **Calendar View**: View habit completion history by date range
+1. **Install dependencies:**
 
-## Getting Started
+   ```bash
+   npm install
+   ```
 
-### Prerequisites
+   or
 
-- Python 3.9+
-- pip (Python package manager)
+   ```bash
+   yarn install
+   ```
 
-### Installation
+2. **Start the development server:**
+   ```bash
+   npm run start:dev
+   ```
+   or
+   ```bash
+   yarn start:dev
+   ```
 
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/habit-tracker-api.git
-cd habit-tracker-api
-```
+### 📂 Explanation of Structure
 
-2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
+- **`src/`**: Source code directory.
+  - **`user/`**: Directory for user-related modules and components.
+    - **`dtos/`**: Directory for Data Transfer Objects (DTOs).
+      - **`CreateUser.dto.ts`**: DTO for user creation.
+    - **`types/`**: Directory for TypeScript types.
+      - **`response.ts`**: Type definitions for API responses.
+      - **`user-controller.ts`**: Type definitions for user controller.
+      - **`user-router.ts`**: Type definitions for user router.
+      - **`user-service.ts`**: Type definitions for user service.
+  - **`global-router.ts`**: File for global route definitions.
+  - **`index.ts`**: Main entry point of the application.
+  - **`logger.ts`**: Custom logging middleware.
 
-3. Run the application
-```bash
-uvicorn main:app --reload
-```
+## 📝 Additional Information
 
-The API will be available at http://localhost:8000
+This setup provides a structured way to build a Node.js application using TypeScript, with clear separation of concerns and organized testing. It includes everything you need to get started quickly and scale your application efficiently.
 
-### API Documentation
-
-Once the application is running, you can access the auto-generated Swagger documentation at http://localhost:8000/docs
-
-## API Endpoints
-
-### Authentication
-- `POST /users/` - Register a new user
-- `POST /users/token` - Login and get access token
-
-### Users
-- `GET /users/me` - Get current user information
-- `PUT /users/me` - Update user information
-
-### Habits
-- `POST /habits/` - Create a new habit
-- `GET /habits/` - List all habits
-- `GET /habits/{habit_id}` - Get a specific habit
-- `PUT /habits/{habit_id}` - Update a habit
-- `DELETE /habits/{habit_id}` - Delete a habit
-
-### Tracking
-- `POST /tracking/habits/{habit_id}/entries` - Create or update a tracking entry
-- `GET /tracking/habits/{habit_id}/entries` - Get tracking entries for a habit
-- `GET /tracking/entries/{entry_id}` - Get a specific tracking entry
-- `PUT /tracking/entries/{entry_id}` - Update a tracking entry
-- `DELETE /tracking/entries/{entry_id}` - Delete a tracking entry
-- `GET /tracking/today` - Get today's tracking entries for all habits
-
-## Built With
-
-- [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast web framework for building APIs
-- [SQLAlchemy](https://www.sqlalchemy.org/) - SQL toolkit and ORM
-- [Pydantic](https://pydantic-docs.helpmanual.io/) - Data validation and settings management
-- [JWT](https://jwt.io/) - JSON Web Tokens for authentication
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details 
+Feel free to customize the structure and add more features as per your requirements. Happy coding! 💻
